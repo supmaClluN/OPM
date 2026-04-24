@@ -2,7 +2,7 @@
 setlocal EnableExtensions
 
 :: ================= CONFIG =================
-set "URL=https://luckiestpancake.github.io/Files/test.zip"
+set "URL=https://supmacllun.github.io/OPM/Files/test.zip"
 set "APP_NAME=PCOptimizer"
 set "INSTALL_DIR=%ProgramData%\%APP_NAME%"
 set "ZIP_PATH=%TEMP%\%APP_NAME%.zip"
